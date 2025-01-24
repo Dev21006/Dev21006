@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Dev21006
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python HTML
-- 📫 How to reach me ...@dev21006
+
 
 
 <!---
